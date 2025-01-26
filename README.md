@@ -1,4 +1,4 @@
-# 👨‍💻 Eros' Portfolio
+# 👨‍💻 Danendra Evan Wicaksono Portfolio
 
 Welcome to my GitHub portfolio!  
 I am a **Web Developer** and **IoT Engineer** passionate about creating impactful solutions through modern technologies. My work blends creativity and technical expertise to deliver exceptional results. 
